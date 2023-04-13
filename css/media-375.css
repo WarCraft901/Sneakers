@@ -1,0 +1,35 @@
+.container{
+    width: 100vw;
+    margin: 0;
+}
+
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+#bars{
+    display: inline;
+    position: relative;
+    top: 30px;
+    left: 24px;
+}
+
+.header_left img{
+    position: relative;
+    top: -16px;
+    left: 56px;
+    width: 137.5px;
+    height: 20px;    
+}
+
+.list_menu li{
+    display: none;
+}
+
+.section_1{
+    display: flex;
+    flex-direction: column;
+}
+
